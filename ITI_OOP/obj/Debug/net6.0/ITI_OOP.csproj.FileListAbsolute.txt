@@ -1,0 +1,15 @@
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.exe
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.deps.json
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.runtimeconfig.json
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.dll
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.pdb
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.csproj.AssemblyReference.cache
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.AssemblyInfoInputs.cache
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.AssemblyInfo.cs
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.dll
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\refint\ITI_OOP.dll
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.pdb
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.genruntimeconfig.cache
+C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ref\ITI_OOP.dll
