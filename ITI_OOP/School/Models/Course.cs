@@ -24,7 +24,7 @@ namespace ITI_OOP.School.Models
             //logic here 
             if (!CanIEnroll(student))
             {
-                throw new Exception($"{this.Name} is reached the max allowed students");
+                throw new Exception($"{this.Name} has reached the max allowed students");
             }
             this.Students[NextIndex++] = student;
         }

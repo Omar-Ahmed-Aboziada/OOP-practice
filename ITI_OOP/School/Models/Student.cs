@@ -24,17 +24,17 @@ namespace ITI_OOP.School.Models
             {
                 throw new Exception("reached the max allowed cources");
             }
-
-            if (IsCourceEnrolled(course,this.Courses))
+            
+            if (IsCourseEnrolled(course,this.Courses))
             {
-                 throw new Exception($"aleady inrolled in {course.Name}");
+                 throw new Exception($"already enrolled in {course.Name}");
             }
 
             this.Courses[this.NextCourcesIndex++]=course;
             course.EnrollStudent(this);
         }
 
-        private static bool IsCourceEnrolled(Course course, Course[] cources)
+        private static bool IsCourseEnrolled(Course course, Course[] cources)
         {
             foreach (Course c in cources)
             {

@@ -13,3 +13,18 @@ C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\refint\ITI_O
 C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.pdb
 C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.genruntimeconfig.cache
 C:\Users\Ahmed.Embaby\source\repos\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ref\ITI_OOP.dll
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.csproj.AssemblyReference.cache
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.AssemblyInfoInputs.cache
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.AssemblyInfo.cs
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.csproj.CoreCompileInputs.cache
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.dll
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\refint\ITI_OOP.dll
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.pdb
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.exe
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.deps.json
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.runtimeconfig.json
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.dll
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\bin\Debug\net6.0\ITI_OOP.pdb
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ITI_OOP.genruntimeconfig.cache
+D:\Coding\Cloned Projects\ITI_OOP\ITI_OOP\obj\Debug\net6.0\ref\ITI_OOP.dll

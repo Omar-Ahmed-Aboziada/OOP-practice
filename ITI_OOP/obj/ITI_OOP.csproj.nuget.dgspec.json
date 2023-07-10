@@ -1,31 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmed.Embaby\\source\\repos\\ITI_OOP\\ITI_OOP\\ITI_OOP.csproj": {}
+    "D:\\Coding\\Cloned Projects\\ITI_OOP\\ITI_OOP\\ITI_OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmed.Embaby\\source\\repos\\ITI_OOP\\ITI_OOP\\ITI_OOP.csproj": {
+    "D:\\Coding\\Cloned Projects\\ITI_OOP\\ITI_OOP\\ITI_OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed.Embaby\\source\\repos\\ITI_OOP\\ITI_OOP\\ITI_OOP.csproj",
+        "projectUniqueName": "D:\\Coding\\Cloned Projects\\ITI_OOP\\ITI_OOP\\ITI_OOP.csproj",
         "projectName": "ITI_OOP",
-        "projectPath": "C:\\Users\\Ahmed.Embaby\\source\\repos\\ITI_OOP\\ITI_OOP\\ITI_OOP.csproj",
-        "packagesPath": "C:\\Users\\Ahmed.Embaby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed.Embaby\\source\\repos\\ITI_OOP\\ITI_OOP\\obj\\",
+        "projectPath": "D:\\Coding\\Cloned Projects\\ITI_OOP\\ITI_OOP\\ITI_OOP.csproj",
+        "packagesPath": "C:\\Users\\oahme\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\Cloned Projects\\ITI_OOP\\ITI_OOP\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ahmed.Embaby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oahme\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://devops.nupco.com/NUPCOCollection/iNUPCO/_packaging/INUPCO/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
